@@ -6,3 +6,8 @@ html {
 body {
    background: #f0f0f0;
 }
+
+#wrapper {
+   display: grid;
+   place-items: center;
+}
